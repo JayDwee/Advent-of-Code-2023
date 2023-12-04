@@ -11,7 +11,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 | Mon  | Tue  | Wed  | Thu  | Fri  | Sat  | Sun  |
 |------|------|------|------|------|------|------|
 |      |      |      |      | ✅✅   | ✅✅ | ✅✅ |
-| 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 |
+| ✅✅ | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 |
 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 |
 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 | 🔲🔲 |
 | 🔲🔲 | 🔲🔲 |      |      |      |      |      |
@@ -39,8 +39,11 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 7 |    
 6 |    
 5 |    
-4 |    
-3 |               ..    -     -   *..'
+4 |              .''          .   ~..'*   '. ~  .
+  |            .'               '''../......'''
+  |            :             /\    -/  : 
+  |            '.            -   - /  .'
+3 |              '..    -     -   *..'
 2 |    ----@        '''..*......'''
 1 |  * ! /^\
 ```
