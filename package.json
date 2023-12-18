@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "@types/node": "^20.10.3"
+  },
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.0"
   }
 }
