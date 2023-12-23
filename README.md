@@ -1,5 +1,5 @@
 # [🎄 Advent of Code 2023](https://adventofcode.com/2023)
-![Static Badge](https://img.shields.io/badge/⭐_Stars-44_of_50-gold)
+![Static Badge](https://img.shields.io/badge/⭐_Stars-46_of_50-gold)
 
 <img src="https://theminimalistvegan.com/wp-content/uploads/2017/12/pexels-photo-704219.jpeg" align="right" height="156" width="128" style="object-fit:cover;object-position:-18px" />
 
@@ -13,7 +13,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 |       |       |       |       | ✅✅ | ✅✅ | ✅✅ |
 | ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ |
 | ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ |
-| ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ | 🔲🔲 | 🔲🔲 |
+| ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ | ✅✅ | 🔲🔲 |
 | 🔲🔲 | 🔲🔲 |       |       |       |       |       |
 
 
@@ -37,8 +37,8 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 21|                        .' ~ .. '...' ~'* '.~  '.
 5 |                        ~~ .~~~'. ~     '. *'.~ :
 22|                 ...''''~~~'*~~.'  .''.~  '..' .'
-4 |              .''         '..  ~..'*   '. ~ ..'
-  |            .'               '''../......'''
+4 |              .''   -   - '..  ~..'*   '. ~ ..'
+23|            .' * -    /\     '''../......'''
   |            :             /\    -/  : 
   |            '.            -   - /  .'
 3 |              '..    -     -   *..'
